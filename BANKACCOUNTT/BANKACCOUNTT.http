@@ -1,0 +1,6 @@
+@BANKACCOUNTT_HostAddress = http://localhost:5121
+
+GET {{BANKACCOUNTT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
